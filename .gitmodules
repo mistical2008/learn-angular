@@ -1,6 +1,6 @@
 [submodule "01-todo-mvc"]
 	path = 01-todo-mvc
-	url = ./01-todo-mvc
+  url = git@github.com:mistical2008/learn-angular-todo-mvc.git
 [submodule "02-learn-fem-production-angular"]
 	path = 02-learn-fem-production-angular
-	url = ./02-learn-fem-production-angular
+	url = git@github.com:mistical2008/learn-angular-fem-production.git 
