@@ -1,3 +1,6 @@
 [submodule "01-todo-mvc"]
 	path = 01-todo-mvc
 	url = ./01-todo-mvc
+[submodule "02-learn-fem-production-angular"]
+	path = 02-learn-fem-production-angular
+	url = ./02-learn-fem-production-angular
