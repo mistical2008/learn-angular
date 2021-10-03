@@ -4,3 +4,6 @@
 [submodule "02-learn-fem-production-angular"]
 	path = 02-learn-fem-production-angular
 	url = git@github.com:mistical2008/learn-angular-fem-production.git 
+[submodule "03-learn-angular-fundamentals-ps"]
+	path = 03-learn-angular-fundamentals-ps
+	url = git@github.com:mistical2008/learn-angular-fundamentals-ps.git
